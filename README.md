@@ -1,5 +1,4 @@
 # Java-based-web-services-framework
-# Java-based-WebService-Framework
 Framework makes it easy to create applications and services with absolute minimum fuss.Small over view of the frame work and user can easily use the framework to produce backends of the web applications/projects.
 
 You can use this framework to create backend/serverside services for web requests, Now user not need to know about servlets or edit Web.xml,user can simply use the framework and all its need can be solved.
